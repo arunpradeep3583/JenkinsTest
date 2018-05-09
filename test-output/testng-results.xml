@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2018-05-09T14:15:24Z" finished-at="2018-05-09T14:15:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2018-05-09T14:15:24Z" finished-at="2018-05-09T14:15:24Z">
+      <class name="NewMaven.NewMaven.App">
+        <test-method status="PASS" signature="mains()[pri:0, instance:NewMaven.NewMaven.App@feb3fa]" name="mains" duration-ms="29" started-at="2018-05-09T19:45:24Z" finished-at="2018-05-09T19:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mains -->
+      </class> <!-- NewMaven.NewMaven.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
