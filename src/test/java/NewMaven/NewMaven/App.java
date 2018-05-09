@@ -12,5 +12,6 @@ public class App
     public static void mains(  )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
     }
 }
